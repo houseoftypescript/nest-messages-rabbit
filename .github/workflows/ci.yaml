@@ -10,7 +10,7 @@ on:
 
 jobs:
   ci:
-    name: CI - ${{ matrix.project.name }}
+    name: CI
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

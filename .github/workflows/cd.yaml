@@ -7,7 +7,7 @@ on:
 
 jobs:
   cd:
-    name: CD - ${{ matrix.project.name }}
+    name: CD
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
