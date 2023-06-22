@@ -9,7 +9,7 @@
   "license": "GNU GPL 3.0",
   "engines": {
     "node": "20.1.0",
-    "npm": "9.7.1",
+    "npm": "9.7.2",
     "yarn": "1.22.19"
   },
   "scripts": {
